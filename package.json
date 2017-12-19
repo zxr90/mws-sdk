@@ -1,19 +1,14 @@
 {
-  "name": "mws-sdk-promises",
-  "description": "Amazon Marketplace Web Services client with support for all api calls, using ES6 Promises.",
+  "name": "mws-sdk-promises-fork",
+  "description": "Fork of mws-sdk-promises.",
   "keywords": [
-    "mws",
-    "amazon",
-    "marketplace",
-    "fba",
-    "sellers"
+    "mws"
   ],
   "homepage": "http://_",
-  "version": "0.9.22",
+  "version": "0.0.1",
   "author": {
-    "name": "Eibbor Srenduas",
-    "email": "robbies@eibbors.net",
-    "url": "http://eibbors.net"
+    "name": "Ron Zhang",
+    "email": "x@ronzhang.com"
   },
   "contributors": [
     {
@@ -35,7 +30,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vedmalex/mws-sdk.git"
+    "url": "https://github.com/zxr90/mws-sdk.git"
   },
   "dependencies": {
     "bluebird": "3.4.1",
